@@ -1,0 +1,7 @@
+YOLOv8
+MTCNN
+opencv-python
+sqlite3
+python-dotenv
+numpy
+Pillow

@@ -1,7 +1,6 @@
-YOLOv8
-MTCNN
-opencv-python
-sqlite3
-python-dotenv
-numpy
-Pillow
+ultralytics==8.2.27
+insightface==0.7.3
+opencv-python-headless==4.9.0.80
+numpy==1.26.4
+torch==2.2.1
+onnxruntime==1.16.3
